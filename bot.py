@@ -2,6 +2,7 @@ import discord
 from random import choice
 
 client = discord.Client()
+
 ben_answers = [ "Yes." , "No." , "Hohoho" , "Eugh..." ]
 
 @client.event
